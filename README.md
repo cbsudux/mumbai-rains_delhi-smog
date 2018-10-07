@@ -1,4 +1,4 @@
-# mumbai-rains
+# mumbai-rains+delhi-smog
 
 <p align="center">
   <img src="twitter.png">
