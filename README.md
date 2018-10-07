@@ -5,7 +5,7 @@
 </p>
 
 
-Visualizations are lucid, interpretable and beautiful. This project covers the impact of the 2017 Mumbai Rains and Delhi, and Smog visually. 
+Visualizations are lucid, interpretable and beautiful. This project covers the impact of the 2017 Mumbai Rains and Delhi Smog visually. 
 
 Check it out : [project](http://dashycbsudux.herokuapp.com)
 
