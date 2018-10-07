@@ -4,4 +4,11 @@
   <img src="twitter.png">
 </p>
 
-Visualising twitter data on the Mumbai Rains and Delhi Smog of Winter'17
+
+Visualizations are very lucid, interpretable and beauriful. This project covers the impact of the 2017 Mumbai Rains and Delhi, and Smog visually. 
+
+## How did I build this?
+
+- Scraped tweets using tweepy
+- Heavy data processing (primarily used Pandas + geo-data packages in python)
+- Created visualizations and built the web app using [plotly](https://plot.ly/)
