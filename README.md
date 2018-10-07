@@ -7,7 +7,7 @@
 
 Visualizations are lucid, interpretable and beautiful. This project covers the impact of the 2017 Mumbai Rains and Delhi Smog visually. 
 
-Check it out : [project](http://dashycbsudux.herokuapp.com)
+Check it out : [Project Link](http://dashycbsudux.herokuapp.com) (Will take some time to load!)
 
 ## How did I build this?
 
